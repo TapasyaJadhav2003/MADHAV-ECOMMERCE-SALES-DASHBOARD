@@ -1,6 +1,6 @@
 # MADHAV-ECOMMERCE-SALES-DASHBOARD
 <img width="913" height="515" alt="image" src="https://github.com/user-attachments/assets/a7cd7545-26dc-4188-9fdf-8c94ca9d2159" />
-# Madhav Store Sales Analysis Dashboard
+
 
 ## Project Overview
 
